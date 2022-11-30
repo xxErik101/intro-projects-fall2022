@@ -1,1 +1,0 @@
-SELECT * FROM games  WHERE first_release_date BETWEEN '1998-01-01 00:00:00' and '1998-12-31 23:59:59' ORDER BY name;
